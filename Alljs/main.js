@@ -14,12 +14,12 @@ function loadComponent(id, htmlFile, jsFile){
 }
 
 //Loading html + respective js
-loadComponent("navbar", "../OtherHtmlfiles/nav.html", "../Alljs/nav.js");
-loadComponent("hero", "../OtherHtmlfiles/hero.html", "../Alljs/hero.js");
-loadComponent("products", "../OtherHtmlfiles/products.html", "../Alljs/products.js");
-loadComponent("accessories", "../OtherHtmlfiles/accessories.html", "../Alljs/accessories.js");
-loadComponent("services", "../OtherHtmlfiles/services.html", "../Alljs/services.js");
-loadComponent("contact", "../OtherHtmlfiles/contact.html", "../Alljs/contact.js");
-loadComponent("footer", "../OtherHtmlfiles/footer.html", "../Alljs/footer.js");
+loadComponent("navbar", "OtherHtmlfiles/nav.html", "../Alljs/nav.js");
+loadComponent("hero", "OtherHtmlfiles/hero.html", "../Alljs/hero.js");
+loadComponent("products", "OtherHtmlfiles/products.html", "../Alljs/products.js");
+loadComponent("accessories", "OtherHtmlfiles/accessories.html", "../Alljs/accessories.js");
+loadComponent("services", "OtherHtmlfiles/services.html", "../Alljs/services.js");
+loadComponent("contact", "OtherHtmlfiles/contact.html", "../Alljs/contact.js");
+loadComponent("footer", "OtherHtmlfiles/footer.html", "../Alljs/footer.js");
 
 
