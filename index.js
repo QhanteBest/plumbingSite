@@ -15,6 +15,7 @@ function loadComponent(id, htmlFile, jsFile){
 
 //Loading html + respective js
 loadComponent("navbar", "./OtherHtmlfiles/nav.html", "./Alljs/nav.js");
+loadComponent("hero", "./OtherHtmlfiles/hero.html");
 loadComponent("products", "./OtherHtmlfiles/products.html", "./Alljs/products.js");
 loadComponent("accessories", "./OtherHtmlfiles/accessories.html", "./Alljs/accessories.js");
 loadComponent("services", "./OtherHtmlfiles/services.html", "./Alljs/services.js");
